@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Pytest
+.pytest_cache/
+
+# Output files (if large)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (large files)
+*.pt
+*.pth
+*.onnx
+*.bin
