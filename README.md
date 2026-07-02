@@ -18,8 +18,8 @@
 
 | 视频 | 描述 |
 |:---:|------|
-| 🎬 [主流程 1](./视频图片/主流程1.mp4) | 展示双机械臂协同分拣系统的完整运行流程，包括视觉感知、目标识别、双臂协同抓取与放置等核心环节 |
-| 🎬 [主流程 2](./视频图片/主流程2.mp4) | 展示系统的第二阶段运行流程，进一步验证双臂协同分拣的稳定性与鲁棒性 |
+| 🎬 [主流程 1](./demo/主流程1.mp4) | 展示双机械臂协同分拣系统的完整运行流程，包括视觉感知、目标识别、双臂协同抓取与放置等核心环节 |
+| 🎬 [主流程 2](./demo/主流程2.mp4) | 展示系统的第二阶段运行流程，进一步验证双臂协同分拣的稳定性与鲁棒性 |
 
 ---
 
@@ -55,42 +55,6 @@
 
 ---
 
-## 🛠️ 环境依赖
-
-```bash
-pip install opencv-python open3d numpy
-```
-
----
-
-## 🚀 使用方法
-
-### 1. 启动服务
-
-**移动机械臂（arm1）：**
-```bash
-ssh woosh@192.168.1.226
-cd catkin_ws/src/demo/scripts/LT_flow_error
-python http_robot_gripper.py    # arm1 控制服务
-python http_camera1.py          # camera1 服务
-```
-
-**固定机械臂（arm2）：**
-```bash
-ssh iuucb@192.168.1.231
-cd LT/
-python http_gripper2.py         # arm2 控制服务
-python http_camera2.py          # camera2 服务
-```
-
-### 2. 运行主程序
-
-```bash
-python main4-多物体循环.py
-```
-
----
-
 ## 📁 项目结构
 
 ```
@@ -104,11 +68,3 @@ python main4-多物体循环.py
 ├── 其他工具/               # ICP配准、点云处理等工具
 └── main4-多物体循环.py     # 主程序
 ```
-
----
-
-<div align="center">
-
-**⭐ 如果觉得有用，欢迎 Star！⭐**
-
-</div>
