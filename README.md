@@ -18,7 +18,7 @@
 
 #### 🎬 主流程 1
 
-https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/assets/视频1.mp4
+https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/raw/main/视频图片/主流程1.mp4
 
 > 展示双机械臂协同分拣系统的完整运行流程，包括视觉感知、目标识别、双臂协同抓取与放置等核心环节。
 
@@ -26,7 +26,7 @@ https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborativ
 
 #### 🎬 主流程 2
 
-https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/assets/视频2.mp4
+https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/raw/main/视频图片/主流程2.mp4
 
 > 展示系统的第二阶段运行流程，进一步验证双臂协同分拣的稳定性与鲁棒性。
 
@@ -42,12 +42,12 @@ https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborativ
 <tr>
 <td>
 
-https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/assets/随机位置展示.mp4
+https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/raw/main/视频图片/随机位置展示.mp4
 
 </td>
 <td>
 
-https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/assets/随机位置展示2.mp4
+https://github.com/suiyuanddie/Multimodal-Perception-Based-Dual-Arm-Collaborative-Cargo-Sorting-Process/raw/main/视频图片/随机位置展示2.mp4
 
 </td>
 </tr>
